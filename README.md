@@ -1,2 +1,5 @@
 # cs-visit
-School viist
+
+- Shane Panter
+- Cool codespace demo!
+
